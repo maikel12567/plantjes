@@ -5,15 +5,14 @@
   <?php require_once 'header.php' ?>
   <main>
     <div class="info-container">
+        <!-- <?php 
+        $count = 0;
+        while($count<20):
+        $count++?>
         <div class="info-box">
             <img src="favicon.ico" alt="Placeholder">
         </div>
-        <div class="info-box">
-
-        </div>
-        <div class="info-box">
-
-        </div>
+        <?php endwhile;?> -->
     </div>
   </main>
   <script>
